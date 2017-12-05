@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    gateway:
+      path: /gateway/**
+      service-id: user-controller
