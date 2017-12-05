@@ -1,6 +1,6 @@
 test:
   user:
-    name:hello nldc-gateway
+    name: hello nldc-gateway
 eureka:
   client:
     healthcheck:
