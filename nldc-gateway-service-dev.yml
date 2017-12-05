@@ -1,3 +1,7 @@
+eureka:
+  client:
+    healthcheck:
+      enabled: true
 zuul:
   routes:
     gateway:
